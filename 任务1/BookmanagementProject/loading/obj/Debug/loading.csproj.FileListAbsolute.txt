@@ -1,0 +1,377 @@
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\bin\Debug\loading.exe
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\bin\Debug\loading.pdb
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\ResolveAssemblyReference.cache
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.Properties.Resources.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.csproj.GenerateResource.Cache
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.exe
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.pdb
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.Loading.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.Login.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\bin\Debug\loading.exe.config
+H:\desktop\Dormitory Operations\vs2008projects\loading\obj\Debug\loading.exe
+H:\desktop\Dormitory Operations\vs2008projects\loading\obj\Debug\loading.pdb
+H:\desktop\Dormitory Operations\vs2008projects\loading\bin\Debug\loading.exe
+H:\desktop\Dormitory Operations\vs2008projects\loading\bin\Debug\loading.pdb
+H:\desktop\Dormitory Operations\vs2008projects\loading\obj\Debug\ResolveAssemblyReference.cache
+H:\desktop\Dormitory Operations\vs2008projects\loading\obj\Debug\loading.Loading.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\obj\Debug\loading.Login.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\obj\Debug\loading.Form3.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\obj\Debug\loading.Properties.Resources.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\obj\Debug\loading.csproj.GenerateResource.Cache
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.MainForm.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.WebBrowser.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.Email.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\bin\Debug\Interop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\bin\Debug\AxInterop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\Interop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\AxInterop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.csproj.ResolveComReference.cache
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.MediaPlayer.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\Interop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\bin\Debug\Interop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\bin\Debug\loading.exe.config
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.UserManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\bin\Debug\UserDataClasses.designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\bin\Debug\UserDataClasses.dbml.layout
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\bin\Debug\UserDataClasses.dbml
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\bin\Debug\loading.exe.config
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\Interop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\Interop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\AxInterop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.csproj.ResolveComReference.cache
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.exe
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.pdb
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.BookTypeManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\bin\Debug\UserDataClasses.designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\bin\Debug\UserDataClasses.dbml.layout
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\bin\Debug\UserDataClasses.dbml
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\bin\Debug\loading.exe
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\bin\Debug\loading.pdb
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\bin\Debug\Interop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\bin\Debug\Interop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\bin\Debug\AxInterop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\ResolveAssemblyReference.cache
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.BookTypeManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.Email.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.Loading.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.Login.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.MainForm.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.MediaPlayer.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.Properties.Resources.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.UserManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.WebBrowser.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.csproj.GenerateResource.Cache
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.PressManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.PressManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.ChangePassword.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.BookshelfManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.CDManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.HandbookManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.BookManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading\loading\obj\Debug\loading.BorrowReturn.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.BookManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.BookshelfManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.BorrowReturn.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.CDManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.ChangePassword.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading\loading\obj\Debug\loading.HandbookManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\bin\Debug\loading.exe.config
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\Interop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\Interop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\AxInterop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.csproj.ResolveComReference.cache
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.exe
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.pdb
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\ResolveAssemblyReference.cache
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.BookManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.BookshelfManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.BookTypeManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.BorrowReturn.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.CDManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.ChangePassword.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.Email.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.HandbookManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.Loading.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.Login.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.MainForm.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.MediaPlayer.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.PressManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.Properties.Resources.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.UserManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.WebBrowser.resources
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\obj\Debug\loading.csproj.GenerateResource.Cache
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\bin\Debug\UserDataClasses.designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\bin\Debug\UserDataClasses.dbml.layout
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\bin\Debug\UserDataClasses.dbml
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\bin\Debug\loading.exe
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\bin\Debug\loading.pdb
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\bin\Debug\Interop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\bin\Debug\Interop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\backup\loading4\loading\bin\Debug\AxInterop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\loading.exe.config
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\Interop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\Interop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\AxInterop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.csproj.ResolveComReference.cache
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.exe
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.pdb
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\UserDataClasses.designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\UserDataClasses.dbml.layout
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\UserDataClasses.dbml
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\loading.exe
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\loading.pdb
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\Interop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\Interop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\AxInterop.WMPLib.dll
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\ResolveAssemblyReference.cache
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.BookManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.BookshelfManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.BookTypeManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.BorrowReturn.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.CDManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.ChangePassword.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.Email.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.HandbookManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.Loading.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.Login.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.MainForm.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.MediaPlayer.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.PressManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.Properties.Resources.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.UserManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.WebBrowser.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.csproj.GenerateResource.Cache
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.BookSearch.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookTypeManage.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BorrowReturn.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\UserManage.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookTypeManage.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookTypeManage.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BorrowReturn.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BorrowReturn.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\UserManage.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\UserManage.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.UserFreezeManage.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.MyInformation.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\obj\Debug\loading.BookSearchForPTUser.resources
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookManage.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookSearch.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookSearchForPTUser.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookshelfManage.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\CDManage.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\ChangePassword.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\HandbookManage.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\Login.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\MyInformation.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\PressManage.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\UserFreezeManage.resx
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookManage.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookManage.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookSearch.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookSearch.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookSearchForPTUser.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookSearchForPTUser.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookshelfManage.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\BookshelfManage.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\CDManage.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\CDManage.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\ChangePassword.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\ChangePassword.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\HandbookManage.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\HandbookManage.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\MyInformation.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\MyInformation.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\PressManage.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\PressManage.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\Login.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\Login.Designer.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\UserFreezeManage.cs
+H:\desktop\Dormitory Operations\vs2008projects\loading4\loading\bin\Debug\UserFreezeManage.Designer.cs
+C:\Users\hp\Desktop\abiaocom\小组项目--图书管理系统\图书管理系统--UI\loading\bin\Debug\loading.exe.config
+C:\Users\hp\Desktop\abiaocom\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\hp\Desktop\abiaocom\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\abiaocom\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\hp\Desktop\abiaocom\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\abiaocom\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\loading.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\abiaocom\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\loading.exe
+C:\Users\hp\Desktop\abiaocom\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\loading.pdb
+P:\小组项目--图书管理系统\图书管理系统--UI\loading\bin\Debug\loading.exe.config
+P:\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\Interop.ShockwaveFlashObjects.dll
+P:\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\Interop.WMPLib.dll
+P:\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+P:\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\AxInterop.WMPLib.dll
+P:\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\loading.csproj.ResolveComReference.cache
+P:\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\loading.exe
+P:\小组项目--图书管理系统\图书管理系统--UI\loading\obj\Debug\loading.pdb
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookManage.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookSearch.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookSearchForPTUser.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookshelfManage.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookTypeManage.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BorrowReturn.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\CDManage.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\ChangePassword.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\HandbookManage.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\Login.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\MyInformation.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\PressManage.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\UserFreezeManage.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\UserManage.resx
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookManage.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookManage.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookSearch.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookSearch.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookSearchForPTUser.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookSearchForPTUser.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookshelfManage.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookshelfManage.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookTypeManage.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BookTypeManage.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BorrowReturn.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\BorrowReturn.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\CDManage.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\CDManage.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\ChangePassword.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\ChangePassword.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\HandbookManage.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\HandbookManage.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\MyInformation.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\MyInformation.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\PressManage.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\PressManage.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\UserDataClasses.designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\Login.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\Login.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\UserFreezeManage.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\UserFreezeManage.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\UserManage.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\UserManage.Designer.cs
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\UserDataClasses.dbml.layout
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\UserDataClasses.dbml
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\loading.exe.config
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\loading.exe
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\loading.pdb
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\Interop.WMPLib.dll
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.csprojAssemblyReference.cache
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\Interop.WMPLib.dll
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.csproj.ResolveComReference.cache
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.BookManage.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.BookSearch.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.BookSearchForPTUser.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.BookshelfManage.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.BookTypeManage.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.BorrowReturn.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.CDManage.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.ChangePassword.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.Email.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.HandbookManage.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.Loading.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.Login.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.MainForm.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.MediaPlayer.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.MyInformation.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.PressManage.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.Properties.Resources.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.UserFreezeManage.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.UserManage.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.WebBrowser.resources
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.csproj.GenerateResource.cache
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.csproj.CoreCompileInputs.cache
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.exe
+C:\Users\XinWu\Desktop\图书管理系统--UI\loading\obj\Debug\loading.pdb
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookManage.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookSearch.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookSearchForPTUser.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookshelfManage.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookTypeManage.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BorrowReturn.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\CDManage.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\ChangePassword.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\HandbookManage.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\Login.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\MyInformation.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\PressManage.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\UserFreezeManage.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\UserManage.resx
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookManage.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookManage.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookSearch.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookSearch.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookSearchForPTUser.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookSearchForPTUser.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookshelfManage.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookshelfManage.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookTypeManage.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BookTypeManage.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BorrowReturn.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\BorrowReturn.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\CDManage.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\CDManage.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\ChangePassword.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\ChangePassword.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\HandbookManage.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\HandbookManage.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\MyInformation.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\MyInformation.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\PressManage.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\PressManage.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\UserDataClasses.designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\Login.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\Login.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\UserFreezeManage.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\UserFreezeManage.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\UserManage.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\UserManage.Designer.cs
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\UserDataClasses.dbml.layout
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\UserDataClasses.dbml
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\loading.exe.config
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\loading.exe
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.csprojAssemblyReference.cache
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\Interop.WMPLib.dll
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.csproj.ResolveComReference.cache
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.BookManage.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.BookSearch.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.BookSearchForPTUser.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.BookshelfManage.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.BookTypeManage.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.BorrowReturn.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.CDManage.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.ChangePassword.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.Email.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.HandbookManage.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.Loading.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.Login.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.MainForm.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.MediaPlayer.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.MyInformation.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.PressManage.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.Properties.Resources.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.UserFreezeManage.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.UserManage.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.WebBrowser.resources
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.csproj.GenerateResource.cache
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.csproj.CoreCompileInputs.cache
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.exe
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\obj\Debug\loading.pdb
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\loading.pdb
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\Interop.WMPLib.dll
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\XinWu\Desktop\新建文件夹 (2)\图书管理系统--UI\loading\bin\Debug\AxInterop.WMPLib.dll

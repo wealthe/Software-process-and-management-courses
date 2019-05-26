@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="LibraryAB" Class="UserDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=BIAOGE\MSSQL2008;Initial Catalog=LibraryAB;Integrated Security=True" SettingsObjectName="loading.Properties.Settings" SettingsPropertyName="LibraryABConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.UserData" Member="UserData">
+    <Type Name="UserData">
+      <Column Name="UserID" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="EmailPassword" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Authority" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Sex" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Unit" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Tel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Photo" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="CardCreateDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="UserData_BookBorrow" Member="BookBorrow" ThisKey="UserID,UserName" OtherKey="UserID,UserName" Type="BookBorrow" />
+      <Association Name="UserData_UserFreeze" Member="UserFreeze" ThisKey="UserID" OtherKey="UserID" Type="UserFreeze" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BookType" Member="BookType">
+    <Type Name="BookType">
+      <Column Name="BookTypeID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BookTypeName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Book_BookType" Member="Book" ThisKey="BookTypeName" OtherKey="BookType" Type="Book" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Press" Member="Press">
+    <Type Name="Press">
+      <Column Name="PressID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PressName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PressTel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PressAddress" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PressZipCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PressWebsite" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Book_Press" Member="Book" ThisKey="PressName" OtherKey="PressName" Type="Book" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Bookshelf" Member="Bookshelf">
+    <Type Name="Bookshelf">
+      <Column Name="BookshelfID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BookshelfName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BookshelfPosition" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BookshelfNotes" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Book_Bookshelf" Member="Book" ThisKey="BookshelfName" OtherKey="BookshelfName" Type="Book" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CD" Member="CD">
+    <Type Name="CD">
+      <Column Name="CDID" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CDName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CDType" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="CDPosition" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="CD_Book" Member="Book" ThisKey="CDID" OtherKey="CDID" Type="Book" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Handbook" Member="Handbook">
+    <Type Name="Handbook">
+      <Column Name="HandbokID" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HandbookName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="HandbookPosition" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="Handbook_Book" Member="Book" ThisKey="HandbokID" OtherKey="HandbookID" Type="Book" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Book" Member="Book">
+    <Type Name="Book">
+      <Column Name="ID" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ISDN" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BookName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Author" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Translator" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BookType" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PressName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Pages" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Price" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="PubDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CDID" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="HandbookID" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="BookshelfName" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="TotalNum" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StorageDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Book_Press" Member="Press" ThisKey="PressName" OtherKey="PressName" Type="Press" />
+      <Association Name="Book_BookType" Member="BookType1" ThisKey="BookType" OtherKey="BookTypeName" Type="BookType" />
+      <Association Name="Book_Bookshelf" Member="Bookshelf" ThisKey="BookshelfName" OtherKey="BookshelfName" Type="Bookshelf" />
+      <Association Name="CD_Book" Member="CD" ThisKey="CDID" OtherKey="CDID" Type="CD" IsForeignKey="true" />
+      <Association Name="Handbook_Book" Member="Handbook" ThisKey="HandbookID" OtherKey="HandbokID" Type="Handbook" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BookBorrow" Member="BookBorrow">
+    <Type Name="BookBorrow">
+      <Column Name="BorrowID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BookID" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UserID" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BorrowDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ReturnDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Operator" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BookName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Expired" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="UserData_BookBorrow" Member="UserData" ThisKey="UserID,UserName" OtherKey="UserID,UserName" Type="UserData" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.UserFreeze" Member="UserFreeze">
+    <Type Name="UserFreeze">
+      <Column Name="ReturnID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserID" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Operator" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Freeze" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="FreezeDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="UserData_UserFreeze" Member="UserData" ThisKey="UserID" OtherKey="UserID" Type="UserData" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
